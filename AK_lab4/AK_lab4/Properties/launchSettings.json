@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AK_lab4": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir=\"C:\\Program Files\" --pattern=\"*.exe\" --include-hidden --include-readonly --include-archive\n"
+    }
+  }
+}
